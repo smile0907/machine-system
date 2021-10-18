@@ -1,0 +1,10 @@
+.leaflet-control-layers-overlays {
+    height: auto;
+    width: 180px;
+    font-size: 15px;
+}
+
+.leaflet-control-layers-selector {
+    width: 15px;
+    height: 15px;
+}
